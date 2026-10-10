@@ -18,7 +18,7 @@ orbit_controller:
     center_north_m: 0.0
     center_east_m: 0.0
     altitude_m: 6.0
-    radius_m: 5.0
+    radius_m: 7.0
     orbit_period_s: 24.0
     number_of_laps: 1.25
     climb_time_s: 6.0
